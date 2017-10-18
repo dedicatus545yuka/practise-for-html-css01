@@ -177,7 +177,7 @@ a {
     width: 1240px;
     height: 120px;
     /* 给a标签设置盒子属性并且设置宽度高度以适应图片 */
-    background-image: url("imgs/Cgbj0VnfKoWAQ9qUAAKWf4opOlI866.jpg");
+    background-image: url("http://a4.qpic.cn/psb?/V118JuTr3rHMrA/R1*1jwZqMBKF.8Riu8T.eVTy9Q4VIJFkmvCnSHiKK04!/m/dPMAAAAAAAAA&bo=2AR4AAAAAAARB5Q!&rf=photolist");
     background-repeat: no-repeat;
     /* 给a标签嵌入背景图片，平铺方式不重复*/
 }
@@ -311,5 +311,9 @@ h3 {
     margin-top: 12px;
 }
 ```
+### 惯例的还是附上一张效果图  
+
+！[效果图](http://a4.qpic.cn/psb?/V118JuTr3rHMrA/UUuNPe8Pdn5zVETUwTP5SvIRmxGkZAL9ox8ZSoNpeH4!/m/dPMAAAAAAAAA&bo=sQOAAgAAAAADBxI!&rf=photolist)
+
 
 
